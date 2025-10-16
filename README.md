@@ -32,9 +32,5 @@ More importantly, it helped me understand how data science can intersect with he
 I plan to further develop and refine this model in the future.
 
 Technologies Used
-Python
-NumPy
-Pandas
-Scikit-learn
-
-Matplotlib / Seaborn
+Python NumPy Pandas Scikit-learn
+Matplotlib
