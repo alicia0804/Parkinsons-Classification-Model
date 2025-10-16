@@ -1,5 +1,5 @@
 # Parkinsons-Classification-Model
-After learning that one of my favorite actors, Michael J. Fox, was diagnosed with Parkinson’s Disease, I felt inspired to build something—however small—that could contribute to understanding 
+After learning that one of my favorite actors, Michael J. Fox, was diagnosed with Parkinson’s Disease, I felt inspired to build something that could contribute to understanding 
 or helping those affected by this condition.
 
 
