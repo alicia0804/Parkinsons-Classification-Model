@@ -15,7 +15,6 @@ The model analyzes variations in voice frequency and classifies them as:
 0 → Healthy
 1 → Parkinson’s Disease
 
-Project Workflow
 1)Imported the necessary Python libraries.
 2)Explored the dataset using basic descriptive statistics and visualization.
 3)Examined the distribution of samples between healthy and affected individuals.
@@ -26,7 +25,7 @@ Project Workflow
 8)Evaluated the model’s accuracy and reliability on test data.
 9)Built a predictive system that can classify new data as healthy or Parkinson’s.
 
-Results and Learning
+
 This project taught me how to handle data from start to finish: cleaning, exploring, training, and evaluating a predictive model.
 More importantly, it helped me understand how data science can intersect with healthcare, reinforcing my interest in using technology for meaningful impact.
 I plan to further develop and refine this model in the future.
